@@ -1,0 +1,1 @@
+A simple website which displays three beautiful places in Accra
