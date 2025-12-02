@@ -1,1 +1,1 @@
-A simple website which displays three beautiful places in Accra
+A simple website to keep track of the scores of two basketball teams
